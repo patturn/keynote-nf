@@ -1,0 +1,2 @@
+graft the subree here command takes too long to execute when the subtree gets larger.
+the grafting can take wel over 3+ minutes on a modern Skylake laptop with a SSD drive.
